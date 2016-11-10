@@ -1,0 +1,11 @@
+/*修改浏览器的默认样式*/
+body,p,h1,h2,h3,h4,h5,h6,pre,ol,ul,li,dl,dd,dt,input,textarea,select{
+	margin: 0;
+	padding: 0;
+	list-style: none;      /*list-style:none;*/    /*去除左边黑点*/
+}
+body{
+	font-family: "宋体";
+	font-size: 16px;   /*默认字体大小*/
+	line-height: 1.5;  /*行高*/
+}
